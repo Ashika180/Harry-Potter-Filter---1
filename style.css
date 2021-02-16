@@ -1,0 +1,14 @@
+#head{
+    font-size: 30px !important;
+    font-family: 'Reggae One', cursive;
+}
+
+#snap{
+    font-family: 'Carter One', cursive;
+    font-size: 20px;
+}
+
+canvas{
+    border: dashed black 3px;
+    box-shadow: 2px 2px 18px rgb(43, 4, 82);
+}
